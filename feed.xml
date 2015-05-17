@@ -2,13 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
 <title type="text">randomCode</title>
 <generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
-<link rel="self" type="application/atom+xml" href="https://rahul-rkt.github.io/portfolio/feed.xml" />
-<link rel="alternate" type="text/html" href="https://rahul-rkt.github.io/portfolio" />
-<updated>2015-05-01T00:37:01+08:00</updated>
-<id>https://rahul-rkt.github.io/portfolio/</id>
+<link rel="self" type="application/atom+xml" href="https://rahul-rkt.github.io/randomCode/feed.xml" />
+<link rel="alternate" type="text/html" href="https://rahul-rkt.github.io/randomCode" />
+<updated>2015-05-17T16:42:42+08:00</updated>
+<id>https://rahul-rkt.github.io/randomCode/</id>
 <author>
   <name>Rahul Thakur</name>
-  <uri>https://rahul-rkt.github.io/portfolio/</uri>
+  <uri>https://rahul-rkt.github.io/randomCode/</uri>
   <email>rahul.rkt@gmail.com</email>
 </author>
 
